@@ -30,6 +30,9 @@ In the context of the U.S. Company Bankruptcy Prediction Dataset, the analysis m
     5. Depreciation Over the Year.
     6. Relation Between Total Income and Market Value for Top 10 Companies.
 
+### Analysis result : 
+It is an unbalanced data with 96% of data having an 'active' status, hence the prediction accuracy might be highly biased.
+
 3. Models Used: KNN, Xgboost, Random Forest.
 
 ## Results and Conclusions
